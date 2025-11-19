@@ -21,7 +21,7 @@ Bu uygulama, kullanıcının bilgisayara karşı oynadığı klasik Tic-Tac-Toe 
 * **Oyun Durumu Kontrolü:** Her hamleden sonra kazanma, kaybetme veya beraberlik durumları otomatik olarak hesaplanır.
 * **Modüler Yapı:** Kod, okunabilirliği artırmak için fonksiyonel parçalara bölünmüştür.
 
-## 🛠️ Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
@@ -50,7 +50,7 @@ Proje içerisinde kullanılan temel fonksiyonların görevleri aşağıdadır:
 | `victory_for(board, sign)` | Yatay, dikey ve çapraz düzlemleri tarayarak oyunu kazanan tarafı belirler. |
 | `draw_move(board)` | Bilgisayarın boş karelerden rastgele birini seçerek hamle yapmasını sağlar. |
 
-## 📷 Örnek Oyun Görüntüsü
+##  Örnek Oyun Görüntüsü
 
 ```text
 +-------+-------+-------+
